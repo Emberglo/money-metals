@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* SECTION - Header */
+
+/* SECTION - Logo Bar */
+
+.logo-bar-container {
+  display: flex;
+}
+
+.logo-img {
+  max-width: 25vw;
+}
+
+.investopedia-img {
+  max-width: 7vw;
+}
+
+.idaho-img {
+  max-width: 12vw;
+}
+
+.verisign-bitcoin-img {
+  max-width: 15vw;
+}
+
+/* SECTION - Price Bar */
+
+.price-bar-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* SECTION - Home */
+
+
+/* SECTION - Footer */
